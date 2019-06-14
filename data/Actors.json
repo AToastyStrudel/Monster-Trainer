@@ -11,5 +11,5 @@ null,
 {"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marimo","nickname":"","note":"","profile":""},
 {"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Feliz","nickname":"","note":"","profile":""},
 {"id":11,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marble","nickname":"","note":"","profile":""},
-{"id":12,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":12,"battlerName":"Actor3_8","characterIndex":6,"characterName":"Monster","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Monster","traits":[],"initialLevel":1,"maxLevel":99,"name":"Streya","nickname":"","note":"","profile":""}
 ]
